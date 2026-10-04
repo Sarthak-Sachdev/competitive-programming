@@ -6,12 +6,12 @@ This repository tracks my genuine DSA, Competitive Programming and eventual ICPC
 
 ## Current Focus
 
-C++ + STL
+Arrays (next; C++ + STL completed).
 
 ## Statistics
 
-- Total Problems: 0
-- Codeforces: 0
+- Total Problems: 1
+- Codeforces: 1
 - CodeChef: 0
 - LeetCode: 0
 - CSES: 0
@@ -23,27 +23,42 @@ C++ + STL
 
 | Platform | Problems |
 | --- | ---: |
-| Codeforces | 0 |
+| Codeforces | 1 |
 | CodeChef | 0 |
 | LeetCode | 0 |
 | CSES | 0 |
 | Project Euler | 0 |
 
+## Problems by Topic
+
+| Topic | Problems |
+| --- | ---: |
+| C++ Basics | 1 |
+
 ## Problems by Month
 
-No problems recorded yet.
+| Month | Problems |
+| --- | ---: |
+| 2026-10 | 1 |
+
+## Codeforces
+
+- Current rating: Not recorded
+- Peak rating: Not recorded
+- Contests: 0
+- Problems solved: 1
 
 ## Roadmap
 
-C++ + STL → Arrays → Strings → Sorting → Hashing → Prefix Sums → Two Pointers → Sliding Window → Binary Search → Greedy → Bit Manipulation → Basic Number Theory → Regular Codeforces contests → Recursion → Backtracking → Stack / Queue → Heap → Trees → Graphs → DSU → Fenwick Tree → Segment Tree → Core DP → Combinatorics → Advanced Number Theory → Advanced Graphs / Trees → Advanced DP → Advanced Strings → Constructive Algorithms → Game Theory → Computational Geometry → Flow / Matching → FFT / NTT → Advanced CP → ICPC preparation
+C++ + STL (completed) → Arrays (next) → Strings → Sorting → Hashing → Prefix Sums → Two Pointers → Sliding Window → Binary Search → Greedy → Bit Manipulation → Basic Number Theory → Regular Codeforces contests → Recursion → Backtracking → Stack / Queue → Heap → Trees → Graphs → DSU → Fenwick Tree → Segment Tree → Core DP → Combinatorics → Advanced Number Theory → Advanced Graphs / Trees → Advanced DP → Advanced Strings → Constructive Algorithms → Game Theory → Computational Geometry → Flow / Matching → FFT / NTT → Advanced CP → ICPC preparation
 
 ## Recent Activity
 
-No activity has been recorded.
+- 2026-10-03: Accepted Codeforces Group 219158 problem A — Say Hello With C++.
 
 ## Repository Structure
 
-- `solutions/`: solutions grouped by platform.
+- `solutions/`: solutions grouped by platform and problem set.
 - `logs/`: CSV records for problems, daily progress and contests.
 - `notes/patterns/`: personal Competitive Programming pattern library.
 - `notes/mistakes/`: recurring mistakes and lessons.
