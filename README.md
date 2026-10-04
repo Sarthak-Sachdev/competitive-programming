@@ -10,8 +10,8 @@ Arrays (next; C++ + STL completed).
 
 ## Statistics
 
-- Total Problems: 6
-- Codeforces: 6
+- Total Problems: 7
+- Codeforces: 7
 - CodeChef: 0
 - LeetCode: 0
 - CSES: 0
@@ -23,7 +23,7 @@ Arrays (next; C++ + STL completed).
 
 | Platform | Problems |
 | --- | ---: |
-| Codeforces | 6 |
+| Codeforces | 7 |
 | CodeChef | 0 |
 | LeetCode | 0 |
 | CSES | 0 |
@@ -33,20 +33,20 @@ Arrays (next; C++ + STL completed).
 
 | Topic | Problems |
 | --- | ---: |
-| C++ Basics | 6 |
+| C++ Basics | 7 |
 
 ## Problems by Month
 
 | Month | Problems |
 | --- | ---: |
-| 2026-10 | 6 |
+| 2026-10 | 7 |
 
 ## Codeforces
 
 - Current rating: Not recorded
 - Peak rating: Not recorded
 - Contests: 0
-- Problems solved: 6
+- Problems solved: 7
 
 ## Roadmap
 
@@ -54,6 +54,7 @@ C++ + STL (completed) → Arrays (next) → Strings → Sorting → Hashing → 
 
 ## Recent Activity
 
+- 2026-10-04: Accepted Codeforces Group 219158 problem G — Summation from 1 to N.
 - 2026-10-03: Accepted Codeforces Group 219158 problems A–F — Say Hello With C++, Basic Data Types, Simple Calculator, Difference, Area of a Circle, Digits Summation.
 
 ## Repository Structure
