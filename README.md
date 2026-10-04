@@ -10,8 +10,8 @@ Arrays (next; C++ + STL completed).
 
 ## Statistics
 
-- Total Problems: 2
-- Codeforces: 2
+- Total Problems: 3
+- Codeforces: 3
 - CodeChef: 0
 - LeetCode: 0
 - CSES: 0
@@ -23,7 +23,7 @@ Arrays (next; C++ + STL completed).
 
 | Platform | Problems |
 | --- | ---: |
-| Codeforces | 2 |
+| Codeforces | 3 |
 | CodeChef | 0 |
 | LeetCode | 0 |
 | CSES | 0 |
@@ -33,20 +33,20 @@ Arrays (next; C++ + STL completed).
 
 | Topic | Problems |
 | --- | ---: |
-| C++ Basics | 2 |
+| C++ Basics | 3 |
 
 ## Problems by Month
 
 | Month | Problems |
 | --- | ---: |
-| 2026-10 | 2 |
+| 2026-10 | 3 |
 
 ## Codeforces
 
 - Current rating: Not recorded
 - Peak rating: Not recorded
 - Contests: 0
-- Problems solved: 2
+- Problems solved: 3
 
 ## Roadmap
 
@@ -54,7 +54,7 @@ C++ + STL (completed) → Arrays (next) → Strings → Sorting → Hashing → 
 
 ## Recent Activity
 
-- 2026-10-03: Accepted Codeforces Group 219158 problems A–B — Say Hello With C++, Basic Data Types.
+- 2026-10-03: Accepted Codeforces Group 219158 problems A–C — Say Hello With C++, Basic Data Types, Simple Calculator.
 
 ## Repository Structure
 

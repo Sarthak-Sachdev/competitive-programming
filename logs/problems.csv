@@ -1,3 +1,4 @@
 date,platform,problem_id,title,url,rating,difficulty,topic,subtopic,pattern,result,time_minutes,attempts,contest,upsolved,notes
 2026-10-03,Codeforces,219158A,Say Hello With C++,https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A,,,C++ Basics,Input/output,,Accepted,,3,Codeforces Group 219158 (practice),no,Accepted submission 393072767; two earlier C11 compilation errors.
 2026-10-03,Codeforces,219158B,Basic Data Types,https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B,,,C++ Basics,Data types,,Accepted,,1,Codeforces Group 219158 (practice),no,Accepted submission 393073523.
+2026-10-03,Codeforces,219158C,Simple Calculator,https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C,,,C++ Basics,Arithmetic operators,,Accepted,,4,Codeforces Group 219158 (practice),no,Accepted submission 393104416; three earlier wrong answers.
