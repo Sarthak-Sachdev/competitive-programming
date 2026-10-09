@@ -10,8 +10,8 @@ Arrays (next; C++ + STL completed).
 
 ## Statistics
 
-- Total Problems: 15
-- Codeforces: 15
+- Total Problems: 24
+- Codeforces: 24
 - CodeChef: 0
 - LeetCode: 0
 - CSES: 0
@@ -23,7 +23,7 @@ Arrays (next; C++ + STL completed).
 
 | Platform | Problems |
 | --- | ---: |
-| Codeforces | 15 |
+| Codeforces | 24 |
 | CodeChef | 0 |
 | LeetCode | 0 |
 | CSES | 0 |
@@ -33,21 +33,21 @@ Arrays (next; C++ + STL completed).
 
 | Topic | Problems |
 | --- | ---: |
-| C++ Basics | 14 |
+| C++ Basics | 23 |
 | Geometry | 1 |
 
 ## Problems by Month
 
 | Month | Problems |
 | --- | ---: |
-| 2026-10 | 15 |
+| 2026-10 | 24 |
 
 ## Codeforces
 
 - Current rating: 377 (newbie)
 - Peak rating: 377 (newbie)
 - Contests: 1
-- Problems solved: 15
+- Problems solved: 24
 
 ## Roadmap
 
@@ -55,6 +55,7 @@ C++ + STL (completed) → Arrays (next) → Strings → Sorting → Hashing → 
 
 ## Recent Activity
 
+- 2026-10-10: Accepted Codeforces Group 219158 problems O–V and X (9 problems; 6 earlier wrong answers).
 - 2026-10-07: Accepted Codeforces Round 1125 (Div. 3), problem A — In Search of Convenience.
 - 2026-10-05: Accepted Codeforces Group 219158 problems H–N — Two numbers, Welcome for you with Conditions, Multiples, Max and Min, The Brothers, Capital or Small or Digit, Char.
 - 2026-10-04: Accepted Codeforces Group 219158 problem G — Summation from 1 to N.

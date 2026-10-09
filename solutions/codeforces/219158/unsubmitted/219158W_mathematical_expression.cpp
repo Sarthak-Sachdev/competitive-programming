@@ -1,12 +1,19 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-    long long a, b, c;
-    char op, equals;
-    cin >> a >> op >> b >> equals >> c;
+int main ()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    long long a,b,c;
+    char s,equal;
+    cin >> a >> s >> b >> equal >> c;
 
-    long long result = op == '+' ? a + b : op == '-' ? a - b : a * b;
+    long long result;
+    if (s == '+') result = a+b;
+    else if (s == '-') result = a-b;
+    else result = a*b;
     if (result == c) cout << "Yes";
     else cout << result;
+    return 0;
 }
