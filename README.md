@@ -10,8 +10,8 @@ Arrays (next; C++ + STL completed).
 
 ## Statistics
 
-- Total Problems: 8
-- Codeforces: 8
+- Total Problems: 15
+- Codeforces: 15
 - CodeChef: 0
 - LeetCode: 0
 - CSES: 0
@@ -23,7 +23,7 @@ Arrays (next; C++ + STL completed).
 
 | Platform | Problems |
 | --- | ---: |
-| Codeforces | 8 |
+| Codeforces | 15 |
 | CodeChef | 0 |
 | LeetCode | 0 |
 | CSES | 0 |
@@ -33,21 +33,21 @@ Arrays (next; C++ + STL completed).
 
 | Topic | Problems |
 | --- | ---: |
-| C++ Basics | 7 |
+| C++ Basics | 14 |
 | Geometry | 1 |
 
 ## Problems by Month
 
 | Month | Problems |
 | --- | ---: |
-| 2026-10 | 8 |
+| 2026-10 | 15 |
 
 ## Codeforces
 
 - Current rating: 377 (newbie)
 - Peak rating: 377 (newbie)
 - Contests: 1
-- Problems solved: 8
+- Problems solved: 15
 
 ## Roadmap
 
@@ -55,9 +55,10 @@ C++ + STL (completed) → Arrays (next) → Strings → Sorting → Hashing → 
 
 ## Recent Activity
 
+- 2026-10-07: Accepted Codeforces Round 1125 (Div. 3), problem A — In Search of Convenience.
+- 2026-10-05: Accepted Codeforces Group 219158 problems H–N — Two numbers, Welcome for you with Conditions, Multiples, Max and Min, The Brothers, Capital or Small or Digit, Char.
 - 2026-10-04: Accepted Codeforces Group 219158 problem G — Summation from 1 to N.
 - 2026-10-03: Accepted Codeforces Group 219158 problems A–F — Say Hello With C++, Basic Data Types, Simple Calculator, Difference, Area of a Circle, Digits Summation.
-- 2026-10-07: Accepted Codeforces Round 1125 (Div. 3), problem A — In Search of Convenience.
 
 ## Repository Structure
 
